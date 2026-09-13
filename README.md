@@ -16,7 +16,6 @@ Main packages used across the workflow include:
 - `geosphere`
 - `slider`
 - `ranger`
-- `pROC`
 - `fastshap`
 - `lme4`
 - `lmerTest`
