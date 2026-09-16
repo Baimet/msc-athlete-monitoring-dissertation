@@ -307,3 +307,5 @@ The dataset used in this dissertation is:
 **SoccerMon: A large-scale multivariate soccer athlete health, performance, and position monitoring dataset**
 
 The source dataset is publicly available through Zenodo and is described in the corresponding Scientific Data publication.
+
+Dataset: https://doi.org/10.5281/zenodo.10033832
